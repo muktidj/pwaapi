@@ -1,0 +1,24 @@
+{
+"products" : [
+[{"id":1,"name":"Eagle owl (unidentified)","category":"Purple"},
+{"id":2,"name":"Waxbill, black-cheeked","category":"Yellow"},
+{"id":3,"name":"Wolf, mexican","category":"Indigo"},
+{"id":4,"name":"Caracara (unidentified)","category":"Goldenrod"},
+{"id":5,"name":"Pelican, brown","category":"Red"},
+{"id":6,"name":"Long-tailed spotted cat","category":"Teal"},
+{"id":7,"name":"Heron, black-crowned night","category":"Aquamarine"},
+{"id":8,"name":"Grenadier, purple","category":"Khaki"},
+{"id":9,"name":"Pig-tailed macaque","category":"Pink"},
+{"id":10,"name":"Goliath heron","category":"Purple"},
+{"id":11,"name":"Sloth, hoffman's","category":"Crimson"},
+{"id":12,"name":"Bat-eared fox","category":"Yellow"},
+{"id":13,"name":"Trotter, lily","category":"Maroon"},
+{"id":14,"name":"Lion, california sea","category":"Red"},
+{"id":15,"name":"Bush dog","category":"Orange"},
+{"id":16,"name":"Small-clawed otter","category":"Red"},
+{"id":17,"name":"Finch, common melba","category":"Fuscia"},
+{"id":18,"name":"Common mynah","category":"Crimson"},
+{"id":19,"name":"Blue crane","category":"Indigo"},
+{"id":20,"name":"Antechinus, brown","category":"Teal"}]
+]
+}
