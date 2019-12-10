@@ -1,6 +1,6 @@
 {
 "products" : [
-[{"id":1,"name":"Eagle owl (unidentified)","category":"Purple"},
+ {"id":1,"name":"Eagle owl (unidentified)","category":"Purple"},
 {"id":2,"name":"Waxbill, black-cheeked","category":"Yellow"},
 {"id":3,"name":"Wolf, mexican","category":"Indigo"},
 {"id":4,"name":"Caracara (unidentified)","category":"Goldenrod"},
@@ -20,5 +20,5 @@
 {"id":18,"name":"Common mynah","category":"Crimson"},
 {"id":19,"name":"Blue crane","category":"Indigo"},
 {"id":20,"name":"Antechinus, brown","category":"Teal"}]
-]
+
 }
